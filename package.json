@@ -21,7 +21,7 @@
     "express": "^4.17.1",
     "https": "^1.0.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.8.7",
+    "mongoose": "^7.1.1",
     "mongoose-error-handler": "^1.1.0",
     "validator": "^12.1.0"
   },
